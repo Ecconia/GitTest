@@ -1,2 +1,2 @@
 TestFile Master_NormalStyle
-Bla
+Bla - Blub
